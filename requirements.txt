@@ -1,0 +1,6 @@
+beautifulsoup4
+justext
+trafilatura
+readability-lxml
+rouge-score
+requests
