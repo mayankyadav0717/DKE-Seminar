@@ -116,15 +116,5 @@ This repository is shared for academic and educational purposes. Please contact 
 
 ---
 
-## 🤝 Acknowledgments
 
-* Libraries: BeautifulSoup, jusText, Trafilatura, Readability, Rouge-Score, NLTK
-* Seminar supervisor: \[Name, if applicable]
 
----
-
-✅ If you’d like, I can also create:
-
-* a **shorter minimal README**,
-* or add **example commands + sample outputs**.
-  Just tell me what style you prefer!
